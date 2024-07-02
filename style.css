@@ -1,5 +1,5 @@
-#boby {
-    background-color: #EEE
+body {
+    background-color: #EEE;
     font-family: Helvetica, Arial, sans-serif
 }
 
@@ -20,7 +20,7 @@ h1, h2 h3 {
 }  
 
 #header {
-    background-color: #66CCFF
+    background-color: #66CCFF;
     color: white;
     text-align: center;
     padding: 10px;
@@ -32,7 +32,7 @@ h1, h2 h3 {
 }
 
 #nav {
-    width: 180px
+    width: 180px;
     float: left;
 }
 
@@ -42,7 +42,7 @@ h1, h2 h3 {
 }
 
 #nav .selected {
-    front-weight: bold;
+    font-weight: bold;
 }
 #main {
     width: 600px;
@@ -55,5 +55,4 @@ h1, h2 h3 {
     background-color: #999999;
     Color: white;
     text-align: right;
-
 }
