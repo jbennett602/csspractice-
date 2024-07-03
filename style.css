@@ -1,5 +1,5 @@
 body {
-    background-color: #EEE;
+    background-color: #EEEEEE;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -8,7 +8,7 @@ a {
     color: red;
 }
 
-h1, h2 h3 {
+h1, h2, h3 {
     margin: 0;
 }
 
@@ -24,7 +24,6 @@ h1, h2 h3 {
     color: white;
     text-align: center;
     padding: 10px;
-
 }
 
 #content {
@@ -44,11 +43,11 @@ h1, h2 h3 {
 #nav .selected {
     font-weight: bold;
 }
+
 #main {
     width: 600px;
     float: right;
 }
-
 #footer {
     clear: both;
     padding: 10px;
